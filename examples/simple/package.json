@@ -1,0 +1,21 @@
+{
+  "name": "eventipede-examples-simple",
+  "version": "0.0.0",
+  "description": "a simple example application using eventipede",
+  "author": "a magical dream chicken",
+  "scripts": {
+    "build": "webpack",
+    "start": "npm run build && node server.js"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "express": "^4.9.4",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "jade": "^1.7.0",
+    "webpack": "^1.4.1-beta1"
+  }
+}

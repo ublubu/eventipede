@@ -1,0 +1,14 @@
+{
+  "name": "eventipede",
+  "version": "0.0.0",
+  "description": "composable flow graphs using named events as edges",
+  "author": "a magical dream chicken",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}
